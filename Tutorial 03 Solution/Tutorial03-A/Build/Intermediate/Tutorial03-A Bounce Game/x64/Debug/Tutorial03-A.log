@@ -1,0 +1,9 @@
+﻿  MainGame.cpp
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(83,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(83,22): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(96,27): warning C4100: 'elapsedTime': unreferenced formal parameter
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(240,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(278,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(278,16): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(319,15): warning C4189: 'coinObj': local variable is initialized but not referenced
+  Tutorial03-A.vcxproj -> C:\Users\erwin\OneDrive\Documents\Jobs and Career\Sumo Digital\DITP 2023\Day3 - Breakout\Tutorial 03 Solution\Tutorial03-A\Build\x64\Debug\Tutorial03-A Bounce Game.exe

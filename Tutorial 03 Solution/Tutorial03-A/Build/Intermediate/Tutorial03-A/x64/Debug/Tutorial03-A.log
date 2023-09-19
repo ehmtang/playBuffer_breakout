@@ -1,0 +1,6 @@
+﻿  MainGame.cpp
+C:\Users\TSpiers\Desktop\DIP C++ Tutorials\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(29,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\TSpiers\Desktop\DIP C++ Tutorials\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(29,22): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\TSpiers\Desktop\DIP C++ Tutorials\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(44,27): warning C4100: 'elapsedTime': unreferenced formal parameter
+C:\Users\TSpiers\Desktop\DIP C++ Tutorials\Tutorial 03 Solution\Tutorial03-A\MainGame.cpp(48,14): warning C4189: 'paddleObj': local variable is initialized but not referenced
+  Tutorial03-A.vcxproj -> C:\Users\TSpiers\Desktop\DIP C++ Tutorials\Tutorial 03 Solution\Tutorial03-A\Build\x64\Debug\Tutorial03-A.exe
